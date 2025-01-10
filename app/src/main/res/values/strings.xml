@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string-array name="institutions">
+        <item>Telefon</item>
+        <item>İnternet</item>
+    </string-array>
+</resources>

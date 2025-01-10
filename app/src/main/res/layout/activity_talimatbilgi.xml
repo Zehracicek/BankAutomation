@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_back"
+            android:contentDescription="Geri"
+            android:layout_marginEnd="8dp"
+            android:onClick="onBackPressed" />
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Talimat Ver"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#F0F0F0"
+        android:padding="16dp"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:id="@+id/txt_account_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Paranın Çekileceği Hesap Kart"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/txt_iban"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TR19 2158 3763 5811 9233 2146 13"
+            android:textSize="16sp"
+            android:textColor="#757575" />
+
+        <TextView
+            android:id="@+id/txt_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bakiye: 37.698,67 TL"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:paddingTop="8dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_instruction_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Talimat Bilgileri"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginTop="24dp"
+        android:textColor="#000000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#F0F0F0"
+        android:padding="16dp"
+        android:layout_marginTop="8dp">
+
+        <TextView
+            android:id="@+id/txt_company"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kurum: A Telekomünikasyon"
+            android:textSize="16sp"
+            android:textColor="#757575" />
+
+        <TextView
+            android:id="@+id/txt_gsm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gsm No: 5338941328"
+            android:textSize="16sp"
+            android:textColor="#757575"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/txt_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Başlangıç Tarihi: 30/11/2024"
+            android:textSize="16sp"
+            android:textColor="#757575"
+            android:layout_marginTop="8dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_continue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FFC300"
+        android:text="DEVAM"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="32dp" />
+</LinearLayout>

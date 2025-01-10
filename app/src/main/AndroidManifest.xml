@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Application">
+
+
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Giris" />
+        <activity android:name=".KayitOlActivity" />
+        <activity android:name=".Hesap" />
+        <activity android:name=".HesapActivity" />
+        <activity android:name=".TransferActivity" />
+        <activity android:name=".OtomatikOdemeActivity" />
+        <activity android:name=".TalimatVerActivity" />
+        <activity android:name=".KurumSecimiActivity" />
+        <activity android:name=".FaturaKurumSecimiActivity" />
+        <activity android:name=".TelefonList" />
+        <activity android:name=".FaturaTelefonList" />
+        <activity android:name=".TelefonTalimatActivity" />
+        <activity android:name=".InternetveTelevizyon" />
+        <activity android:name=".FaturaInternetveTelevizyon" />
+        <activity android:name=".Odemeler" />
+        <activity android:name=".NetTalimatActivity" />
+        <activity android:name=".TalimatBilgiActivity" />
+        <activity android:name=".FaturaActivity" />
+        <activity android:name=".Fatura2" />
+        <activity android:name=".Fatura3Activity" />
+
+
+
+    </application>
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+</manifest>
