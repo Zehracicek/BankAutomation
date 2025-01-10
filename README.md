@@ -7,9 +7,10 @@ BankAutomation
 Bu ekran, kullanıcıların uygulamaya giriş yapmasını sağlar. E-posta adresi ve şifre girişi ile kullanıcı doğrulama yapılır. Ekranın alt kısmında, henüz hesabı olmayan kullanıcılar için "Kayıt Ol" yönlendirmesi bulunmaktadır. Sade tasarımıyla kullanıcı deneyimi ön planda tutulmuştur.
 
 
+## Hesap/Kart Bilgileri ve Hızlı İşlemler Ekranı  
+
 ![Ekran görüntüsü 2025-01-10 095754](https://github.com/user-attachments/assets/1fd3f904-462b-4c7a-9bad-17a73be5f4dd)
 
-## Hesap/Kart Bilgileri ve Hızlı İşlemler Ekranı  
 
 Bu ekran, kullanıcıların banka hesaplarına ve kart bilgilerine erişim sağlayarak hızlı işlemleri gerçekleştirebilmesi için tasarlanmıştır.  
 
@@ -39,6 +40,7 @@ Bu ekran, kullanıcıların hesap ve kart bilgilerine hızlı erişim sağlamas�
 ## Ödeme Aracı Ekranı
 
 
+![Ekran görüntüsü 2025-01-10 095810](https://github.com/user-attachments/assets/8d6e94a9-0299-4fc9-8de2-eb0d967e05ee)
 
 
 Kullanıcıların bakiyelerini, IBAN bilgilerini ve kart detaylarını görebileceği bir ekrandır. Bu ekrandan para gönderme ve ödeme işlemleri kolaylıkla gerçekleştirilebilir. Ayrıca "Hesapta Yeterli Bakiyeniz Yoksa Yardım Alın" seçeneğiyle kullanıcılar yönlendirilmektedir.
