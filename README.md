@@ -58,14 +58,11 @@ Kullanıcıların bakiyelerini, IBAN bilgilerini ve kart detaylarını görebile
 
 Kullanıcılar bu ekran üzerinden ödemelerini hangi hesap veya karttan yapacaklarını seçebilirler.
 
-**Paranın Çekileceği Hesap/Kart:** 
-Hesap bakiyesi ve seçilen hesap bilgileri gösterilmektedir.
+**Paranın Çekileceği Hesap/Kart:** Hesap bakiyesi ve seçilen hesap bilgileri gösterilmektedir.
 
-**Ödeme Bilgileri:** 
-Kurum adı ve GSM numarası gibi bilgiler girilerek ödeme talimatı detaylandırılabilir.
+**Ödeme Bilgileri:** Kurum adı ve GSM numarası gibi bilgiler girilerek ödeme talimatı detaylandırılabilir.
 
-**Borç Bilgileri:**  
-Ödenecek fatura tutarı detaylı bir şekilde listelenir.
+**Borç Bilgileri:** Ödenecek fatura tutarı detaylı bir şekilde listelenir.
 
 
 
