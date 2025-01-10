@@ -27,5 +27,56 @@ Bu ekran, kullanıcıların banka hesaplarına ve kart bilgilerine erişim sağl
    - **Ödemeler:** Kullanıcı, "Ödemeler" butonuna tıklayarak fatura ve diğer ödeme işlemleri için yönlendirilir.  
    - **Para Gönder:** Kullanıcı, "Para Gönder" butonuyla başka bir hesaba kolayca para transferi yapabilir.  
 
+![Ekran görüntüsü 2025-01-10 095810](https://github.com/user-attachments/assets/dcd41215-0588-4031-9e06-21c005e2744f)
+
 ### Tasarım Hedefi:
 Bu ekran, kullanıcıların hesap ve kart bilgilerine hızlı erişim sağlamasını ve sık kullanılan işlemleri tek bir noktadan gerçekleştirmesini hedefler. Sade ve kullanıcı dostu tasarımıyla, finansal işlemleri kolaylaştırır.  
+
+
+
+
+
+## Ödeme Aracı Ekranı
+
+
+
+
+Kullanıcıların bakiyelerini, IBAN bilgilerini ve kart detaylarını görebileceği bir ekrandır. Bu ekrandan para gönderme ve ödeme işlemleri kolaylıkla gerçekleştirilebilir. Ayrıca "Hesapta Yeterli Bakiyeniz Yoksa Yardım Alın" seçeneğiyle kullanıcılar yönlendirilmektedir.
+
+
+
+
+
+
+
+## Talimat Ver Ekranı
+
+
+
+
+
+Kullanıcılar bu ekran üzerinden ödemelerini hangi hesap veya karttan yapacaklarını seçebilirler.
+
+# Paranın Çekileceği Hesap/Kart:
+Hesap bakiyesi ve seçilen hesap bilgileri gösterilmektedir.
+
+# Ödeme Bilgileri: 
+Kurum adı ve GSM numarası gibi bilgiler girilerek ödeme talimatı detaylandırılabilir.
+
+# Borç Bilgileri: 
+Ödenecek fatura tutarı detaylı bir şekilde listelenir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
