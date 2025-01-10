@@ -1,6 +1,7 @@
 <p align="center">
-  # BankAutomation
-  </p>
+  <strong><h1>BANKAUTOMATION</h1></strong>
+</p>
+
 
 ## Giriş Yap Ekranı  
 
