@@ -1,4 +1,6 @@
-#### BankAutomation
+<p align="center">
+  # BankAutomation
+  </p>
 
 ## Giriş Yap Ekranı  
 
