@@ -1,4 +1,4 @@
-BankAutomation
+#### BankAutomation
 
 ## Giriş Yap Ekranı  
 
@@ -14,7 +14,7 @@ Bu ekran, kullanıcıların uygulamaya giriş yapmasını sağlar. E-posta adres
 
 Bu ekran, kullanıcıların banka hesaplarına ve kart bilgilerine erişim sağlayarak hızlı işlemleri gerçekleştirebilmesi için tasarlanmıştır.  
 
-### Detaylı Açıklama:
+# Detaylı Açıklama:
 1. **Kart Bilgileri:**  
    Kullanıcının kart numarası, son kullanma tarihi ve CVV kodu güvenli bir şekilde görüntülenir. Kart tasarımı sade ve anlaşılır bir şekilde kullanıcıya sunulmuştur. Bu bölüm, hesap hareketlerini takip etmek ve işlemler için gerekli kart bilgilerini hızlıca görmek için idealdir.  
 
@@ -27,8 +27,6 @@ Bu ekran, kullanıcıların banka hesaplarına ve kart bilgilerine erişim sağl
 4. **Hızlı İşlemler:**  
    - **Ödemeler:** Kullanıcı, "Ödemeler" butonuna tıklayarak fatura ve diğer ödeme işlemleri için yönlendirilir.  
    - **Para Gönder:** Kullanıcı, "Para Gönder" butonuyla başka bir hesaba kolayca para transferi yapabilir.  
-
-![Ekran görüntüsü 2025-01-10 095810](https://github.com/user-attachments/assets/dcd41215-0588-4031-9e06-21c005e2744f)
 
 ### Tasarım Hedefi:
 Bu ekran, kullanıcıların hesap ve kart bilgilerine hızlı erişim sağlamasını ve sık kullanılan işlemleri tek bir noktadan gerçekleştirmesini hedefler. Sade ve kullanıcı dostu tasarımıyla, finansal işlemleri kolaylaştırır.  
@@ -53,19 +51,20 @@ Kullanıcıların bakiyelerini, IBAN bilgilerini ve kart detaylarını görebile
 
 ## Talimat Ver Ekranı
 
+![Ekran görüntüsü 2025-01-10 100252](https://github.com/user-attachments/assets/12967af3-e9ab-472b-b7f5-1105bd56d40d)
 
 
 
 
 Kullanıcılar bu ekran üzerinden ödemelerini hangi hesap veya karttan yapacaklarını seçebilirler.
 
-# Paranın Çekileceği Hesap/Kart:
+**Paranın Çekileceği Hesap/Kart:** 
 Hesap bakiyesi ve seçilen hesap bilgileri gösterilmektedir.
 
-# Ödeme Bilgileri: 
+**Ödeme Bilgileri:** 
 Kurum adı ve GSM numarası gibi bilgiler girilerek ödeme talimatı detaylandırılabilir.
 
-# Borç Bilgileri: 
+**Borç Bilgileri:**  
 Ödenecek fatura tutarı detaylı bir şekilde listelenir.
 
 
